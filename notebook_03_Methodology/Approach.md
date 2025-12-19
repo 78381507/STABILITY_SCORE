@@ -54,7 +54,7 @@ Le Stability Score agrège **4 signaux indépendants**, chacun capturant un aspe
 3. **Break** — Identifie les changements locaux de régime
 4. **Observability gap** — Quantifie ce qui n'est pas expliqué par le modèle
 
-➡️ [Voir le détail de chaque composant](components.md)
+➡️ [Voir le détail de chaque composant](components-detail.md)
 
 ### Agrégation en score unique
 
