@@ -80,4 +80,4 @@ Pour être utile en banque, un outil de détection doit être :
 
 **"Comment mesurer la stabilité comportementale d'un flux bancaire de façon simple, explicable et anticipative ?"**
 
-Réponse ➡️ [Voir la méthodologie](.../notebook_03_Methodology)
+Réponse ➡️ [voir Methodology](.../notebook_03_Methodology)
