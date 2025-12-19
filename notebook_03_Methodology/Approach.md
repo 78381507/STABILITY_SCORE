@@ -54,7 +54,7 @@ Le Stability Score agrège **4 signaux indépendants**, chacun capturant un aspe
 3. **Break** — Identifie les changements locaux de régime
 4. **Observability gap** — Quantifie ce qui n'est pas expliqué par le modèle
 
-➡️ [Voir le détail de chaque composant](components-detail.md)
+
 
 ### Agrégation en score unique
 
@@ -83,7 +83,7 @@ Pour valider la réactivité du score, j'ai créé 4 types de chocs artificiels 
 **Résultat :**  
 Le score réagit différemment selon le type de choc, ce qui confirme qu'il capture bien des patterns comportementaux distincts.
 
-➡️ [Voir les résultats visuels](../03-results/case-study.md)
+
 
 ### Cas réel : EUR/USD BCE
 
@@ -119,4 +119,4 @@ Cette approche **est** :
 **Question centrale :**  
 "Quand tout semble normal dans les chiffres, est-ce que le comportement l'est vraiment ?"
 
-➡️ [Retour au README](../README.md)
+
