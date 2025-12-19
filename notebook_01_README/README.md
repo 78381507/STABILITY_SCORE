@@ -12,7 +12,7 @@ Les banques surveillent des centaines de flux opérationnels : paiements, délai
 
 ## 📊 Illustration clé
 
-[Early Signal](notebook_01_README/ECB_USD-EUR.png)
+[Early Signal](ECB_USD-EUR.png)
 
 **En bleu** : Le Stability Score détecte les zones de dégradation (zones grises)  
 **En orange** : Le KPI bancaire traditionnel réagit avec retard
