@@ -191,5 +191,4 @@ Transformer une étude de cas personnelle en un outil opérationnel crédible.
 
 ---
 
-➡️ [Retour aux enseignements clés](key-findings.md)  
-➡️ [Retour au README](../README.md)
+
