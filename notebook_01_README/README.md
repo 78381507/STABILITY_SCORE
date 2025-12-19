@@ -74,7 +74,7 @@ Enseignements clés et limitations reconnues.
 
 ## 📧 Contact
 
-**François** — [mailto: tilkinanalytics@gmail.com]
+**François** — [mailto:tilkinanalytics@gmail.com]
 
 *Ce projet est une étude de cas personnelle à visée démonstrative.*
 
