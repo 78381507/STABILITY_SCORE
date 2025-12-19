@@ -40,7 +40,7 @@ Ce projet est une **étude de cas personnelle** démontrant une approche méthod
 
 ## 📂 Navigation
 
-### [01 — Contexte & Problématique](01-context/problem-statement.md)
+# 02 — Contexte & Problématique
 Pourquoi les outils actuels ne suffisent pas face aux dérives silencieuses.
 
 ### [02 — Méthodologie](02-methodology/approach.md)
