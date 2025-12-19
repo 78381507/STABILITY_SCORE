@@ -12,7 +12,7 @@ Les banques surveillent des centaines de flux opérationnels : paiements, délai
 
 ## 📊 Illustration clé
 
-![Early Signal vs Lagged KPI](03-results/visualizations/05-early-signal-vs-kpi.png)
+![Early Signal vs Lagged KPI](notebook_04_Results/Visualizations/ECB_USD-EUR.png)
 
 **En bleu** : Le Stability Score détecte les zones de dégradation (zones grises)  
 **En orange** : Le KPI bancaire traditionnel réagit avec retard
