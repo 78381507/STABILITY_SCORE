@@ -103,11 +103,10 @@ Les deux outils se renforcent mutuellement :
 ✓ Validation sur un cas réel complexe  
 
 **Ce qui reste à valider :**
-⚠️ Performance sur d'autres types de flux (voir [limitations](limitations.md))  
+⚠️ Performance sur d'autres types de flux  
 ⚠️ Taux de faux positifs sur grande échelle  
 ⚠️ Seuils optimaux selon les secteurs  
 
 ---
 
-➡️ [Voir les limitations et next steps](limitations.md)  
-➡️ [Retour au README](../README.md)
+
