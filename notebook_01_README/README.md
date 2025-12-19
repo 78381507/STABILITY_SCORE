@@ -40,16 +40,16 @@ Ce projet est une **étude de cas personnelle** démontrant une approche méthod
 
 ## 📂 Navigation
 
-# 02 — Contexte & Problématique
+### 02 — Contexte & Problématique
 Pourquoi les outils actuels ne suffisent pas face aux dérives silencieuses.
 
-### [02 — Méthodologie](02-methodology/approach.md)
+### 03 — Méthodologie
 Démarche générale et principes de conception.
 
-### [03 — Résultats](03-results/case-study.md)
+### 04 — Résultats
 Analyse du cas EUR/USD avec visualisations.
 
-### [04 — Insights](04-insights/key-findings.md)
+### 05 — Insights
 Enseignements clés et limitations reconnues.
 
 ---
