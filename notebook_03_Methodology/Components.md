@@ -128,7 +128,7 @@ Les 4 composants n'ont pas forcément le même poids selon le type de flux. Par 
 
 Chaque composant peut être affiché individuellement pour comprendre **quelle dimension** de la stabilité est affectée.
 
-![Exemple de décomposition des 4 composants](../03-results/visualizations/02-components-breakdown.png)
+
 
 Cette décomposition permet aux équipes métier de diagnostiquer rapidement :
 - "Ah, c'est le drift qui pose problème, pas la volatilité"
@@ -136,5 +136,4 @@ Cette décomposition permet aux équipes métier de diagnostiquer rapidement :
 
 ---
 
-➡️ [Retour à la méthodologie](approach.md)  
-➡️ [Voir les résultats](../03-results/case-study.md)
+
